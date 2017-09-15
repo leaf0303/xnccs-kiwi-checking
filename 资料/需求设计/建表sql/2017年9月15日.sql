@@ -40,5 +40,5 @@ create table KIWI_EMPLOYEE_INFO
    primary key (id)
 );
 
-alter table KIWI_EMPLOYEE_INFO comment '员工信息';
+alter table KIWI_EMPLOYEE_INFO comment '员工信息'; 
 
